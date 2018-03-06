@@ -1,0 +1,6 @@
+*.pyc
+*.pyw
+.git/
+.idea/
+venv/
+
